@@ -1,34 +1,27 @@
 # 🌦️ Weather Forecast App
 
-A modern, responsive Weather Forecast application built using **React + Vite + Tailwind CSS**.  
-It provides **current weather** and a **5-day forecast** with smooth UI and weather-based background effects.
+A modern and responsive weather forecast app built with **React + Vite + Tailwind CSS**, featuring city search, 5-day forecast, and dynamic weather-based UI effects.
+
+---
+
+## 🔗 Live Demo
+👉 https://manavv09.github.io/Weather-app/
 
 ---
 
 ## ✨ Features
-
 - 🔍 Search weather by city name
 - 🌡️ Current temperature + feels like
-- 💧 Humidity & wind speed
+- 💧 Humidity and wind speed
 - 📅 5-day forecast
-- 🌧️ Dynamic background effects (Rain / Snow / Sunny / Cloudy)
+- 🌧️ Dynamic weather effects (Rain / Snow / Sunny / Cloudy)
 - 📱 Fully responsive UI
-- ⚡ Fast performance with Vite
 
 ---
 
 ## 🛠️ Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- Open-Meteo API (No API key required)
 
-- **React**
-- **Vite**
-- **Tailwind CSS**
-- **Open-Meteo API** (No API key required)
-
----
-
-## 🚀 Getting Started
-
-### 1) Clone the repository
-```bash
-git clone <your-repo-link>
-cd weather-forecast
