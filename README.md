@@ -63,7 +63,7 @@ src
 git clone https://github.com/yourusername/weather-dashboard.git
 ```
 
-2️⃣ Navigate to project folder
+2️⃣ Navigate to the project folder
 
 ```
 cd weather-dashboard
